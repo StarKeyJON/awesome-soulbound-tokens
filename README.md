@@ -31,6 +31,7 @@ A curated list of awesome links related to Soulbound Tokens.
 - [EIP-4974 Fungible Non-tradable tokens](https://ethereum-magicians.org/t/eip-4974-fungible-non-tradable-tokens-or-exp/8805)
 - [EIP-735 Claim Holder](https://github.com/ethereum/EIPs/issues/735)
 - [Standards for consent tokens](https://ethereum-magicians.org/t/standards-for-a-consent-token/9027)
+- [EIP-5633 Composable Soulbound ERC-1155 Discussion](https://ethereum-magicians.org/t/eip-5633-composable-soulbound-nft-eip-1155-extension/10773)
 
 ## Articles
 
