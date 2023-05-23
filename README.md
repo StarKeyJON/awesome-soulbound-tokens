@@ -12,6 +12,7 @@ A curated list of awesome links related to Soulbound Tokens.
 - [ERC5107](https://github.com/ethereum/EIPs/pull/5107)
 - [ERC5114](https://github.com/ethereum/EIPs/pull/5114)
 - [ERC5192](https://eips.ethereum.org/EIPS/eip-5192)
+- [ERC5633](https://eips.ethereum.org/EIPS/eip-5633)
 
 ## Implementations
 
@@ -19,6 +20,7 @@ A curated list of awesome links related to Soulbound Tokens.
 - [Tribz Soulbound tokens](https://blockscout.com/xdai/mainnet/address/0x2043F330339E21Afe6DC6207500B24AcF74068fC/contracts#address-tabs)
 - [Asshole Soulbound token](https://etherscan.io/address/0x0855B3B667Be89efcF9eE54a79aEcB25a194A8b0#code)
 - [ERC721-520](https://github.com/marryinweb3/ERC721-520)
+- [ERC5633 Composable Soulbound ERC-1155 NFT](https://github.com/brianwatroba/soulbound#)
 
 ## Discussions
 
